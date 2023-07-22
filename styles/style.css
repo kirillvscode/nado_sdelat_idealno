@@ -34,7 +34,7 @@ body {
     font-family: Raleway, sans-serif;
     line-height: normal;
     font-weight: 800;
-    padding-top: 48px;
+    padding-top: 55px;
 }
 
 .page {
@@ -55,7 +55,7 @@ body {
 .page__title:hover::before {
     content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
     position: absolute;
-    top: 108px;
+    top: 148px;
     right: 20px;
     max-width: 760px;
     border: 2px solid #000;
