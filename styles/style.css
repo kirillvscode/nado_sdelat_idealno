@@ -11,7 +11,7 @@ html {
 body {
     height: inherit;
     min-width: 800px;
-    margin: 0px;
+    margin: 0;
 }
 
 .page__video {
@@ -41,6 +41,7 @@ body {
 .page {
     background-color: #fec7ee;
     font-family: Raleway, sans-serif;
+    margin: 0px;
 }
 
 .page__title::after {
@@ -56,7 +57,7 @@ body {
 .page__title:hover::before {
     content: 'На самом деле нет.\AВажнее &mdash; научиться ошибаться.';
     position: absolute;
-    top: 180px;
+    top: 178px;
     right: 20px;
     max-width: 770px;
     border: 2px solid #000;
