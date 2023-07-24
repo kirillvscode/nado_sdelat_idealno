@@ -42,6 +42,9 @@ body {
     background-color: #fec7ee;
     font-family: Raleway, sans-serif;
     margin: 0px;
+    height: 100%;
+    position: relative;
+    text-align: center;
 }
 
 .page__title::after {
